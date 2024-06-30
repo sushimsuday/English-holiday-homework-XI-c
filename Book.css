@@ -1,0 +1,45 @@
+div {
+    text-align: center;
+}
+
+body {
+    background:  bisque;
+    font-size:    20px;
+    font-family: Verdana, sans-serif;
+}
+image {
+    height:       950px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    }
+
+
+footer {
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+hr {
+  border: 5px solid yellow;
+  border-radius: 2.5px;
+}
+
+.container img {
+    height: 300px;
+    border-radius: 50%;
+}
+
+#TT {
+    background-image: url(2.jpg);
+     background-repeat: round;
+     
+}
+
+#IFM {
+    background-image: url(3.jpg);
+    background-repeat: round;
+}
